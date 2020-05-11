@@ -4,7 +4,6 @@
 
 ## Option 1: Heroes of Pymoli
 
-![Fantasy](images/Fantasy.jpg)
 
 
 Final report should include each of the following:
