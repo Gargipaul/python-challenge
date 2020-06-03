@@ -58,7 +58,7 @@ Final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
-**Most Profitable Items**
+*Most Profitable Items**
 
 * Identify the 5 most profitable items by total purchase value, then list (in a table):
   * Item ID
